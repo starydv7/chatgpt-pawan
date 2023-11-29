@@ -1,0 +1,8 @@
+name = "chatgpt-pawan"
+main = "src/index.ts"
+compatibility_date = "2023-11-29"
+usage_model = "standard"
+env = { }
+
+[triggers]
+crons = [ ]
